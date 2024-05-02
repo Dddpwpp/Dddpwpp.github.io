@@ -67,7 +67,7 @@ echo '{
   "ExtensionAllowedTypes": null,
   "ExtensionInstallAllowlist": null,
   "ExtensionInstallBlocklist": null,
-  "ExtensionInstallForcelist": null,
+  "ExtensionInstallForcelist": cjpalhdlnbpafiamejdnhcphjbkeiagm,
   "ExtensionSettings": null,
   "PasswordManagerEnabled": "true",
   "TaskManagerEndProcessEnabled": "true",
